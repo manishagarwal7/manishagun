@@ -1,0 +1,134 @@
+﻿
+.guestbook-sprite,  #guestbook #open-guestbook #guestbook-top, #guestbook #open-guestbook #guestbook-bottom, #guestbook #open-guestbook #guestbook-top, #guestbook #open-guestbook #guestbook-bottom {
+    background: url("/Images/guestbookImage1.png") no-repeat scroll 0 0 transparent;
+}
+
+#guestbook #guestbook-header {
+    border-bottom: 1px solid #CCCCCC;
+    font-family: "proxima-nova";
+    padding-bottom: 17px;
+}
+#guestbook #guestbook-header #message-count,  #guestbook #guestbook-header #add-message {
+    color: #000000;
+    font-size: 16px;
+    font-weight: bold;
+}
+#guestbook #guestbook-header #message-count {
+    float: left;
+}
+#guestbook #guestbook-header #add-message {
+    float: right;
+}
+#guestbook #guestbook-header #add-message a,  #guestbook #guestbook-header #add-message a:hover,  #guestbook #guestbook-header #add-message a:active,  #guestbook #guestbook-header #add-message a:visited {
+    color: #608EC8;
+}
+#guestbook #open-guestbook #guestbook-top {
+    background-position: 0 -212px;
+    height: 42px;
+    width: 520px;
+}
+#guestbook #open-guestbook #guestbook-bottom {
+    background-position: 0 0;
+    height: 90px;
+    width: 520px;
+}
+#guestbook #open-guestbook #guestbook-middle {
+    background: url("/Images/guestbookImage3.png") repeat-y scroll 0 0 transparent;
+    color: #000000;
+    padding: 0 45px 10px 20px;
+}
+
+#bttnGuestMessagePost {
+    background-color: #6D97CC;
+    background-image: -moz-linear-gradient(center top , #6D97CC 0%, #477CBF 100%);
+    border: 1px solid #325C90;
+    border-radius: 4px 4px 4px 4px;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.6) inset;
+    color: #FFFFFF;
+    float: right;
+    font-size: 14px;
+    padding: 6px 10px;
+    text-shadow: 0 1px 0 #25446A;
+}
+bttnGuestMessagePost:hover {
+    border-color: #182C44;
+    box-shadow: 0 0 8px #608EC8;
+}
+#bttnGuestMessagePost:active {
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.4) inset;
+}
+ #guestbook #open-guestbook #guestbook-middle ul.guestbook-message-list {
+    margin-top: 18px;
+}
+ #guestbook #open-guestbook #guestbook-middle ul.guestbook-message-list li {
+    border-bottom: 1px solid #E2E2E2;
+    margin-bottom: 12px;
+    padding-bottom: 11px;
+}
+ #guestbook #open-guestbook #guestbook-middle ul.guestbook-message-list li .message-information {
+    margin-bottom: 8px;
+}
+ #guestbook #open-guestbook #guestbook-middle ul.guestbook-message-list li .message-information .message-name {
+    float: left;
+    font-size: 20px;
+    font-weight: bold !important;
+    width: 275px;
+}
+ #guestbook #open-guestbook #guestbook-middle ul.guestbook-message-list li .message-information .message-time {
+    color: #AAAAAA;
+    float: right;
+    font-size: 16px;
+    text-align: right;
+    width: 160px;
+}
+ #guestbook #open-guestbook #guestbook-middle ul.guestbook-message-list li .message-note {
+    font-size: 18px;
+}
+ #guestbook #open-guestbook #guestbook-middle ul.guestbook-message-list li .message-note p {
+    line-height: 1.5;
+    margin-bottom: 12px;
+}
+ #guestbook #open-guestbook #guestbook-middle #guestbook-post {
+    display: none;
+}
+#guestbook #open-guestbook {
+    margin: 0 auto;
+    width: 710px;
+}
+#guestbook #open-guestbook #guestbook-top {
+    background-position: 0 -170px;
+    height: 42px;
+    width: 710px;
+}
+#guestbook #open-guestbook #guestbook-bottom {
+    background-position: 0 -90px;
+    height: 80px;
+    width: 710px;
+}
+#guestbook #open-guestbook #guestbook-middle {
+    background: url("/Images/guestbookImage2.png") repeat-y scroll 0 0 transparent;
+    padding: 0 45px 10px;
+}
+#guestbook #open-guestbook #guestbook-middle form#new_message {
+    margin: 0 auto;
+    width: 435px;
+}
+#guestbook #open-guestbook #guestbook-middle ul#guestbook-messages {
+    
+    float: left;
+    margin-right: 30px;
+}
+#guestbook #open-guestbook #guestbook-middle ul.guestbook-message-list {
+    list-style-type:none;
+    width: 250px;
+}
+#guestbook #open-guestbook #guestbook-middle ul.guestbook-message-list li .message-information .message-name {
+    width: 145px;
+}
+#guestbook #open-guestbook #guestbook-middle ul.guestbook-message-list li .message-information .message-time {
+    width: 150px;
+}
+#guestbook #open-guestbook #guestbook-middle ul.odd-message-list {
+    float: right;
+}
+#guestbook h1{ margin:0px !important;}

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="ManiShagunDB" Class="ManiShagunDBMLDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=poppy.arvixe.com;Initial Catalog=ManiShagunDB;User ID=manish" SettingsObjectName="manishagunData.My.MySettings" SettingsPropertyName="ManiShagunDBConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="manish.MSGuestBook" Member="MSGuestBooks">
+    <Type Name="MSGuestBook">
+      <Column Name="GuestbookID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="VarChar(150) NOT NULL" CanBeNull="false" />
+      <Column Name="Message" Type="System.String" DbType="VarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="DateCreated" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

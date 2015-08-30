@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="ManiShagunDBML">
+  <DataContextMoniker Name="/ManiShagunDBMLDataContext" />
+  <nestedChildShapes>
+    <classShape Id="0a319cdb-bb4c-414b-bf15-c76340c5566e" absoluteBounds="8.75, 2.375, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/ManiShagunDBMLDataContext/MSGuestBook" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6bacd131-6311-4744-855d-1b829cf87051" absoluteBounds="8.765, 2.835, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

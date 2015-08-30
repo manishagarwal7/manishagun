@@ -1,0 +1,9 @@
+G:\manishagun\manishagunData\bin\Debug\manishagunData.dll.config
+G:\manishagun\manishagunData\bin\Debug\manishagunData.dll
+G:\manishagun\manishagunData\bin\Debug\manishagunData.pdb
+G:\manishagun\manishagunData\bin\Debug\manishagunData.xml
+G:\manishagun\manishagunData\obj\Debug\manishagunData.Resources.resources
+G:\manishagun\manishagunData\obj\Debug\manishagunData.vbproj.GenerateResource.Cache
+G:\manishagun\manishagunData\obj\Debug\manishagunData.dll
+G:\manishagun\manishagunData\obj\Debug\manishagunData.xml
+G:\manishagun\manishagunData\obj\Debug\manishagunData.pdb
