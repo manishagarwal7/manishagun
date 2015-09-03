@@ -32,11 +32,11 @@ function strToHTML(strX) {
 function initializeManishShagun() { daysTogo(); }
 
 function daysTogo() {
-    var start = new Date();
-    var end = new Date("12/15/2013");
+    var start =new Date("12/15/2013");
+    var end = new Date();
     var diff = new Date(end - start);
     var days = diff / 1000 / 60 / 60 / 24;
-    $("#tdDaysToGo").html(parseInt(days + 1) + " days to go!");
+    $("#tdDaysToGo").html(parseInt(days + 1) + " days...still going strong!!!");
     $('#tdDaysToGo').blink();
 
 }
