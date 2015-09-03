@@ -29,7 +29,7 @@ End Code
     </div>
     <div id="divMessagePost" class="hidden">
 
-        <table>
+        <table class="table">
             <tr>
                 <td><label for="message_name" class="field">Name:</label></td>
                 <td><input type="text" size="30" id="message_name"  /></td>

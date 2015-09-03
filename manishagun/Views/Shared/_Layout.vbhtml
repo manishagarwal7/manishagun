@@ -32,7 +32,7 @@
                    <img  src ="/Images/MSLOGO.jpg" alt=""/>
                 </div>
                 <div id="headerText" class="float-left">                    
-                    <table width="100%">
+                    <table class="table">
                         <tr>
                             <td colspan="2">
                                 Manish & Shagun                            
