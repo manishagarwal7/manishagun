@@ -6,7 +6,7 @@ End Code
 <!DOCTYPE html>
 
 <html>
-<head runat="server">
+<head>
     <meta name="viewport" content="width=device-width" />
     <title>GuestBook</title>
 
