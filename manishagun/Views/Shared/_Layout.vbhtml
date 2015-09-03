@@ -12,6 +12,14 @@
     <link type="text/css" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/themes/black-tie/jquery-ui.css" rel="Stylesheet" />
     <script src="@Url.Content("/scripts/manishagun.js")" type="text/javascript"></script>
     <link href="/Content/Guestbook.css" rel="stylesheet" type="text/css" />
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
     <script type="text/javascript">
         $(function () { initializeManishShagun(); });       
     </script>    
